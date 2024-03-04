@@ -145,7 +145,7 @@ def main():
         print("7. Search Items")
         print("8. Generate Report")
         print("9. Exit")
-9        # Get user input for choice
+        # Get user input for choice
         choice = input("Enter your choice: ")
 
         if choice == "1":
