@@ -1,0 +1,14 @@
+Throughout the implementation of the Library Management System project, there were various findings, challenges, limitations, and areas for improvement. 
+
+I found that leveraging object-oriented programming (OOP) principles facilitated the creation of modular and extensible code, 
+also, file-based data storage using JSON provided a simple yet efficient means of persisting library data. 
+
+However, challenges arose during the implementation process, particularly in designing class relationships and handling user input validation comprehensively. 
+While the project successfully realized basic functionalities through a command-line interface (CLI), limitations such as the absence of advanced features like fine management and user authentication were noted. 
+Moving forward, integrating a graphical user interface (GUI) and implementing more advanced features could enhance user experience and system functionality. Additionally, optimizing code, improving data storage mechanisms, 
+and expanding feature sets could address current limitations and elevate the project to meet broader library management needs.  
+
+The most challenging part is certainly while I create a CLI. Since the interface needs to connect all features of the program, it is hard to realize. 
+I tried to write a GUI however, considering this was my first time coding GUI in Python, I quit after I realized there were too many implementations that I had to learn, 
+the time I had did not allow me to learn it one by one. So eventually I changed my interface into CLI. I hope when I write my next project, 
+I will have more time to learn how to write a GUI and implement my code with it. 
