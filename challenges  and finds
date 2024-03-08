@@ -1,4 +1,4 @@
-Throughout the implementation of the Library Management System project, there were various findings, challenges, limitations, and areas for improvement. 
+Throughout the implementation of the Library Management System project, there were various findings, challenges, limitations, and areas for improvements. 
 
 I found that leveraging object-oriented programming (OOP) principles facilitated the creation of modular and extensible code, 
 also, file-based data storage using JSON provided a simple yet efficient means of persisting library data. 
