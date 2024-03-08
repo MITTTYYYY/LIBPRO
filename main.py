@@ -181,6 +181,7 @@ def main():
             items = [patron for patron in library.patrons if patron.patron_id == patron_id]
             if items:
                 library.remove_item(items[0])
+                print("The patron has being removed")
             else:
                 print("Patron not found.")
         elif choice == "5":
