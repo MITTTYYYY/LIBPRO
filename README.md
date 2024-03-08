@@ -6,7 +6,7 @@ it employs classes such as Book, Patron, and Transaction for structured data han
 The project offers a user-friendly command-line interface, empowering librarians with intuitive tools for efficient resource management and seamless patron interactions.
 Overall, the system streamlines library processes, promoting organized and accessible library services.
 
-Structure Of the Program
+Structure for the Program
 
 ### Code Structure:
 
